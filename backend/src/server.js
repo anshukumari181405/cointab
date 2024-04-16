@@ -1,5 +1,5 @@
 const express = require("express");
-const database = require("./config/db");
+const database = require("../config/db");
 const cors = require('cors');
 const ExcelJS = require('exceljs');
 
