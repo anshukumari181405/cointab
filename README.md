@@ -42,7 +42,7 @@ node index.js
 Provide instructions and examples on how to use your project.
 
 ```bash
-# clone by using
+# clone by using https://github.com/anshukumari181405/cointab.git
 
 ```
 ![Screenshot 2024-04-17 21 31 05](https://github.com/anshukumari181405/cointab/assets/146926520/1d3d83f2-94be-4ccc-b865-a89b16924599)
