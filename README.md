@@ -11,9 +11,9 @@ Fullstack
 ## Directory Structure
 my-app/
 ├─ backend/
-| |--Index.js
-| ├─Config/
-| |--db.js
+| ├─ Index.js
+| ├─ Config/
+| ├─├─ db.js
 ├─ frontend/
 │  ├─ Index.html
 |  ├─ Post.html
@@ -22,9 +22,9 @@ my-app/
 ## Features
 List out the key features of your application.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Add a user
+- Post the user
+- Bulk post download in excel
 
 ## design decisions or assumptions
 List your design desissions & assumptions
