@@ -5,8 +5,8 @@ Cointab SE- ASSIGNMENT
 Fullstack
 
 ## Deplolyed App
-Frontend: https://cointab-ecru.vercel.app/
-Backend: https://cointab-1-lp1f.onrender.com
+## Frontend: https://cointab-ecru.vercel.app/
+## Backend: https://cointab-1-lp1f.onrender.com
 
 ## Directory Structure
 my-app/
