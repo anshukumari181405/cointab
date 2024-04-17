@@ -136,7 +136,7 @@
             };
 
             
-            const addUserResponse = await fetch('http://localhost:3000/addUser', {
+            const addUserResponse = await fetch('https://cointab-1-lp1f.onrender.com/addUser', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
@@ -156,7 +156,7 @@
 
         async function checkUserExists(userId) {
             // Check if the user exists in the database by sending a request to your server
-            const response = await fetch(`http://localhost:3000/checkUser/${userId}`);
+            const response = await fetch(`https://cointab-1-lp1f.onrender.com/checkUser/${userId}`);
             const result = await response.json();
             if (result.exists) {
             
