@@ -10,13 +10,13 @@ Fullstack
 
 ## Directory Structure
 my-app/
-├─ backend/
-| ├─ Index.js
-| ├─ Config/
-| ├─├─ db.js
-├─ frontend/
-│  ├─ Index.html
-|  ├─ Post.html
+- ├─ backend/
+- | ├─ Index.js
+- | ├─ Config/
+- | ├─├─ db.js
+- ├─ frontend/
+- │  ├─ Index.html
+- |  ├─ Post.html
 
 
 ## Features
@@ -55,11 +55,11 @@ Provide instructions and examples on how to use your project.
 
 ## API Endpoints
 In case of Backend Applications provide a list of your API endpoints, methods, brief descriptions, and examples of request/response.
-POST /addUser - add new user
-GET /checkUser/:userId - check user by id
-POST /addPosts - add new post
-GET /checkPosts/:userId - check post by id
-GET /downloadPosts/:userId - download post by their id
+- POST /addUser - add new user
+- GET /checkUser/:userId - check user by id
+- POST /addPosts - add new post
+- GET /checkPosts/:userId - check post by id
+- GET /downloadPosts/:userId - download post by their id
 
 
 ## Technology Stack
